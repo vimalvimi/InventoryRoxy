@@ -1,0 +1,43 @@
+<resources>
+
+    //App name
+    <string name="app_name">RoxyInventory</string>
+
+    //Empty View Text
+    <string name="empty_view_title_text">No Items Available</string>
+    <string name="empty_view_subtitle_text">Add Random or New Item</string>
+
+    //Insert_Update_Delete Warnings
+    <string name="insert_successful">Product saved</string>
+    <string name="insert_failed">Error with saving Product</string>
+    <string name="update_successful">Update Successful</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="delete_successful">Deleted Successfully</string>
+    <string name="unknown_info">Unknown</string>
+
+    //UnsavedChangesDialog
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    //Menu Editor
+    <string name="editor_delete">Delete</string>
+    <string name="editor_save">Save#</string>
+
+    //INVENTORY UPDATE
+    <string name="inventory_tv">"Inventory : " </string>
+    <string name="sold_tv">"Sold : " </string>
+
+    //Sell Button
+    <string name="sell_button">Sell</string>
+
+    //-----SORT ORDER----//
+    <string name="sort_order">_ID DESC</string>
+
+    //-----Title----//
+    <string name="title_add_item">Add Item</string>
+    <string name="title_edit_item">Edit Item</string>
+
+    <string name="out_of_stock_toast">Item out of stock</string>
+
+</resources>
